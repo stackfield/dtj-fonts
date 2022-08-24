@@ -1,4 +1,4 @@
-(defvar *size-table* '(("" . 16) ("xxs " . 8) ("xs " . 10)
+(defvar *size-table* '(("" . 14) ("xxs " . 8) ("xs " . 10)
 		       ("s " . 12) ("m " . 14) ("l " . 16)
 		       ("xl " . 20) ("xxl " . 24)))
 
