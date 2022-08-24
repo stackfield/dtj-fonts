@@ -1,7 +1,7 @@
 (load "setting.lisp")
 
 (generate-interface-alias "dtj" '(("sans" . "gothic") ("serif" . "mincho"))
-		'("m" "p") '("interface system")
+		'("m") '("interface system")
 		'("medium" "bold") *size-table* *lang-table*)
 
 (generate-interface-alias "dtj" '(("sans" . "gothic") ("serif" . "mincho"))
